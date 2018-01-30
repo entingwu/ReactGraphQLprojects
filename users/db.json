@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": "23",
+      "firstName": "Florin",
+      "age": 35,
+      "companyId": "1"
+    },
+    {
+      "id": "40",
+      "firstName": "Christy",
+      "age": 10,
+      "companyId": "2"
+    },
+    {
+      "id": "35",
+      "firstName": "Enting",
+      "age": 26,
+      "companyId": "2"
+    },
+    {
+      "firstName": "Stephen",
+      "age": 26,
+      "id": "S11Cz_OMZ"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "Google",
+      "description": "android"
+    },
+    {
+      "id": "2",
+      "name": "Facebook",
+      "description": "search"
+    }
+  ]
+}
